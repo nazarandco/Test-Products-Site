@@ -1,9 +1,10 @@
 # Test-Products-Site
 
 ### [Github](https://nazarandco.github.io/Test-Products-Site/)
-### [Netlify](https://jolly-khorana-95c707.netlify.app !?!?!??!)
+### [Netlify](https://quirky-hoover-f0ac0c.netlify.app)
 
-Layout supports desktop (starting with-1400) versions
+Layout supports screens starting with-550px-width versions,
+didn`t have enought time to upgrade this project :/
 
 ### The tech stack is:
 - [JavaScript](https://ru.wikipedia.org/wiki/JavaScript)
