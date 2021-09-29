@@ -1,0 +1,15 @@
+@import './products/components/header/header.scss';
+@import './products/components/productsList/productsList.scss';
+@import './products/components/product/product.scss';
+@import './products/components/modal/modal.scss';
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  background: #e7efec;
+  margin: 0;
+  min-height: 100%;
+}
