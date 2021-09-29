@@ -1,6 +1,6 @@
 # Test-Products-Site
 
-### [Github](https://nazarandco.github.io/Airport-React-Redux/ !?!?!?!)
+### [Github](https://nazarandco.github.io/Test-Products-Site/)
 ### [Netlify](https://jolly-khorana-95c707.netlify.app !?!?!??!)
 
 Layout supports desktop (starting with-1400) versions
